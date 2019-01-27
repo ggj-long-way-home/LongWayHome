@@ -24,5 +24,5 @@ A poor cat gets thrown out and must find its way home.
 (CC-BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## License
-Creative Commons NonCommercial ShareAlike 3.0
-(https://creativecommons.org/licenses/by-nc-sa/3.0/)
+Creative Commons NonCommercial ShareAlike 4.0
+(https://creativecommons.org/licenses/by-nc-sa/4.0/)
