@@ -1,4 +1,4 @@
-# LongWayHome
+# The Long Way Home
 A poor cat gets thrown out and must find its way home.
 
 ## Credits
