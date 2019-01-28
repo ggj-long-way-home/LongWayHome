@@ -1,4 +1,7 @@
 # The Long Way Home
+Created for Global Game Jam 2019 in under 48 hours.
+
+## Description
 A poor cat gets thrown out and must find its way home.
 
 ## Credits
